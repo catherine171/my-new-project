@@ -1,0 +1,4 @@
+{
+  "implicit": 1500,
+  "pageLoad": 10000
+}

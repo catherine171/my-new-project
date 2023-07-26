@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "Unable to locate element: h3",
+  "stacktrace": "RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8\nWebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:187:5\nNoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:505:5\nelement.find/</<@chrome://remote/content/marionette/element.sys.mjs:135:16\n"
+}
